@@ -1,0 +1,88 @@
+Variable Name,Location,Varaible Description
+Subject,1,Unique numeric identifier of subject being observed in study. Takes values from 1 to 30.
+Activity,2,Physical activity being performed by subject under observation. Takes 6 possible values as follows:
+,,Laying
+,,Sitting
+,,Standing
+,,Walking
+,,Walking Up
+,,Walking Down
+tBodyAcc-mean()-X,3,Mean body acceleration along X axis measured in time
+tBodyAcc-mean()-Y,4,Mean body acceleration along Y axis measured in time
+tBodyAcc-mean()-Z,5,Mean body acceleration along Z axis measured in time
+tBodyAcc-std()-X,6,Standard deviation of body acceleration along X axis measured in time
+tBodyAcc-std()-Y,7,Standard deviation of body acceleration along Y axis measured in time
+tBodyAcc-std()-Z,8,Standard deviation of body acceleration along Z axis measured in time
+tGravityAcc-mean()-X,9,Mean acceleration due to gravity along X axis measured in time
+tGravityAcc-mean()-Y,10,Mean acceleration due to gravity along Y axis measured in time
+tGravityAcc-mean()-Z,11,Mean acceleration due to gravity along Z axis measured in time
+tGravityAcc-std()-X,12,Standard deviation of acceleration due to gravity along X axis measured in time
+tGravityAcc-std()-Y,13,Standard deviation of acceleration due to gravity along Y axis measured in time
+tGravityAcc-std()-Z,14,Standard deviation of acceleration due to gravity along Z axis measured in time
+tBodyAccJerk-mean()-X,15,Mean jerk along X axis measured in time
+tBodyAccJerk-mean()-Y,16,Mean jerk along Y axis measured in time
+tBodyAccJerk-mean()-Z,17,Mean jerk along Z axis measured in time
+tBodyAccJerk-std()-X,18,Standard deviation of jerk along X axis measured in time
+tBodyAccJerk-std()-Y,19,Standard deviation of jerk along Y axis measured in time
+tBodyAccJerk-std()-Z,20,Standard deviation of jerk along Z axis measured in time
+tBodyGyro-mean()-X,21,Mean angular velocity along X axis measured in time
+tBodyGyro-mean()-Y,22,Mean angular velocity along Y axis measured in time
+tBodyGyro-mean()-Z,23,Mean angular velocity along Z axis measured in time
+tBodyGyro-std()-X,24,Standard deviation of angular velocity along X axis measured in time
+tBodyGyro-std()-Y,25,Standard deviation of angular velocity along Y axis measured in time
+tBodyGyro-std()-Z,26,Standard deviation of angular velocity along Z axis measured in time
+tBodyGyroJerk-mean()-X,27,Mean angular jerk along X axis measured in time
+tBodyGyroJerk-mean()-Y,28,Mean angular jerk along Y axis measured in time
+tBodyGyroJerk-mean()-Z,29,Mean angular jerk along Z axis measured in time
+tBodyGyroJerk-std()-X,30,Standard deviation of angular jerk along X axis measured in time
+tBodyGyroJerk-std()-Y,31,Standard deviation of angular jerk along Y axis measured in time
+tBodyGyroJerk-std()-Z,32,Standard deviation of angular jerk along Z axis measured in time
+tBodyAccMag-mean(),33,Mean magnitude of body acceleration measured in time
+tBodyAccMag-std(),34,Standard deviation of magnitude of acceleration measured in time 
+tGravityAccMag-mean(),35,Mean magnitude of acceleration due to gravity measured in time
+tGravityAccMag-std(),36,Standard deviation of magnitude of acceleration due to gravity measured in time
+tBodyAccJerkMag-mean(),37,Mean magnitude of jerk measured in time
+tBodyAccJerkMag-std(),38,Standard deviation of magnitude of jerk measured in time
+tBodyGyroMag-mean(),39,Mean magnitude of angular acceleration measured in time
+tBodyGyroMag-std(),40,Standard deviation of magnitude of angular acceleration measured in time
+tBodyGyroJerkMag-mean(),41,Mean magnitude of angular jerk measured in time
+tBodyGyroJerkMag-std(),42,Standard deviation of magnitude of angular jerk measured in time
+fBodyAcc-mean()-X,43,Mean body acceleration along X axis measured in frequency
+fBodyAcc-mean()-Y,44,Mean body acceleration along Y axis measured in frequency
+fBodyAcc-mean()-Z,45,Mean body acceleration along Z axis measured in frequency
+fBodyAcc-std()-X,46,Standard deviation of body acceleration along X axis measured in frequency
+fBodyAcc-std()-Y,47,Standard deviation of body acceleration along Y axis measured in frequency
+fBodyAcc-std()-Z,48,Standard deviation of body acceleration along Z axis measured in frequency
+fBodyAcc-meanFreq()-X,49,Mean frequency of acceleration along X axis measured in frequency
+fBodyAcc-meanFreq()-Y,50,Mean frequency of acceleration along X axis measured in frequency
+fBodyAcc-meanFreq()-Z,51,Mean frequency of acceleration along Z axis measured in frequency
+fBodyAccJerk-mean()-X,52,Mean of jerk along X axis measured in frequency
+fBodyAccJerk-mean()-Y,53,Mean of jerk along Y axis measured in frequency
+fBodyAccJerk-mean()-Z,54,Mean of jerk along Z axis measured in frequency
+fBodyAccJerk-std()-X,55,Standard deviation of jerk along X axis measured in frequency
+fBodyAccJerk-std()-Y,56,Standard deviation of jerk along Y axis measured in frequency
+fBodyAccJerk-std()-Z,57,Standard deviation of jerk along Z axis measured in frequency
+fBodyAccJerk-meanFreq()-X,58,Mean frequency of jerk along X axis measured in frequency
+fBodyAccJerk-meanFreq()-Y,59,Mean frequency of jerk along Y axis measured in frequency
+fBodyAccJerk-meanFreq()-Z,60,Mean frequency of jerk along Z axis measured in frequency
+fBodyGyro-mean()-X,61,Mean angular velocity along X axis measured in frequency
+fBodyGyro-mean()-Y,62,Mean angular velocity along Y axis measured in frequency
+fBodyGyro-mean()-Z,63,Mean angular velocity along Z axis measured in frequency
+fBodyGyro-std()-X,64,Standard deviation of angular velocity along X axis measured in frequency
+fBodyGyro-std()-Y,65,Standard deviation of angular velocity along Y axis measured in frequency
+fBodyGyro-std()-Z,66,Standard deviation of angular velocity along Z axis measured in frequency
+fBodyGyro-meanFreq()-X,67,Mean frequency of angular acceleration along X axis measured in frequency
+fBodyGyro-meanFreq()-Y,68,Mean frequency of angular acceleration along Y axis measured in frequency
+fBodyGyro-meanFreq()-Z,69,Mean frequency of angular acceleration along Z axis measured in frequency
+fBodyAccMag-mean(),70,Mean magnitude of acceleration measured in frequency
+fBodyAccMag-std(),71,Standard deviation of magnitude of acceleration measured in frequency
+fBodyAccMag-meanFreq(),72,Mean frequency of magnitude of acceleration measured in frequency
+fBodyBodyAccJerkMag-mean(),73,Mean magnitude of jerk measured in frequency
+fBodyBodyAccJerkMag-std(),74,Standard deviation of magnitude of jerk measured in frequency 
+fBodyBodyAccJerkMag-meanFreq(),75,Mean frequency of magnitude of jerk measured in frequency
+fBodyBodyGyroMag-mean(),76,Mean magnitude of angular velocity measured in frequency
+fBodyBodyGyroMag-std(),77,Standard deviation of magnitude of angular velocity measured in frequency
+fBodyBodyGyroMag-meanFreq(),78,Mean frequency of magnitude of angular velocity measured in frequency
+fBodyBodyGyroJerkMag-mean(),79,Mean magnitude of angular jerk measured in frequency
+fBodyBodyGyroJerkMag-std(),80,Standard deviation of magnitude of angular jerk measured in frequency
+fBodyBodyGyroJerkMag-meanFreq(),81,Mean frequency of magnitude of angular jerk measured in frequency
